@@ -4,5 +4,14 @@
 }
 
 body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.blog {
   font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.judul {
+  font-weight: bold;
 }
